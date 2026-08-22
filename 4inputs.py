@@ -1,0 +1,1 @@
+input("u r name:")
