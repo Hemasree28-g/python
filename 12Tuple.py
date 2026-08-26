@@ -1,0 +1,6 @@
+tup=(10,20,30,40,50,60)
+print(tup)
+print(tup[4])
+print(type(tup))
+tup1=(1)
+print(type(tup1))
