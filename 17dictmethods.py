@@ -1,0 +1,12 @@
+Student={
+    "name":"hema",
+    "age":19,
+    "collage":"MTIEAT",
+    "branch":"CSE",
+    "year":"3rd"
+}
+print(Student)
+print(Student["name"])
+print(Student.keys())
+print(list(Student.values()))
+print(list(Student.items()))

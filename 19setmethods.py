@@ -1,0 +1,16 @@
+coll=set()
+coll.add("hema")
+print(coll)
+print(type(coll))
+coll.clear()
+print(coll)
+Student={
+    "hema",
+    19,
+    "MTIEAT",
+    "CSE",
+    "3rd"
+}
+print(type(Student))
+Student.pop()
+print(Student)
